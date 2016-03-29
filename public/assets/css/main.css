@@ -1,0 +1,74 @@
+@import url(https://fonts.googleapis.com/css?family=Lato|Source+Sans+Pro|Ubuntu|Arimo);
+
+html {
+	height: 100%;
+}
+
+body{
+	font-family: 'Ubuntu', sans-serif;
+	height: 100%;
+	margin: 0;
+}
+
+a {
+	text-decoration: none;
+}
+
+.home {
+	background-image: url('../images/home/background.jpg');
+	min-height: 100%;
+	width: 100%;
+}
+
+.logo{
+	margin: 1% 7%;
+	position: absolute;
+	top: 0;
+	z-index: 2;
+}
+
+.boton_contacto{
+	border: 1px solid #fff;
+	color: white;
+	padding: 1%;
+	position: absolute;
+	right: 7%;
+	top: 6%;
+	z-index: 2;
+    border-radius: 5px;
+}
+
+.enlace_contacto {
+	color: #FFF;
+	font-size: 14px;
+}
+
+.content_home {
+    color: rgb(255, 255, 255);
+    left: 0;
+    margin: auto;
+    position: absolute;
+    right: 0;
+    text-align: center;
+    top: 45%;
+    width: 75%;
+    z-index: 2;
+}
+
+.titulo_content {
+	font-size: 32px;
+	font-weight: bold;
+}
+
+.text_content {
+	font-size: 20px;
+}
+
+.filter {
+	background-color: rgba(0, 0, 0, 0.5);
+	position: absolute;
+	width: 100%;
+    min-height: 100%;
+    top: 0;
+    z-index: 1;
+}
