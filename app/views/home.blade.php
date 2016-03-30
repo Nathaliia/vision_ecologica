@@ -18,5 +18,31 @@
 @stop
 
 @section('about_us')
-	
+<div class="us">
+	<h1>NOSOTROS</h1>
+	<div class="section_about">
+		<div class="icon"><img width="110px" src="{{ asset('assets/images/about_us/icon1_pack5.jpg') }}"></div>
+		<div class="titulo">Nuestra Empresa</div>
+		<div class="content">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet feugiat lorem, sit amet tempus urna. Nulla at nulla felis. Aliquam eget iaculis neque. Donec laoreet elit nisl, sit amet lacinia diam accumsan id. Aenean tristique diam at dictum</div>
+	</div>
+	<div class="section_about">
+		<div class="icon">
+			<img width="90px" src="{{ asset('assets/images/about_us/icon2_pack5.jpg') }}">
+		</div>
+		<div class="titulo">Mision</div>
+
+		<div class="content">
+			Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet feugiat lorem, sit amet tempus urna. Nulla at nulla felis. Aliquam eget iaculis neque. Donec laoreet elit nisl, sit amet lacinia diam accumsan id. Aenean tristique diam at dictum
+		</div>
+	</div>
+	<div class="section_about">
+		<div class="icon">
+			<img width="90px" src="{{ asset('assets/images/about_us/icon3_pack5.jpg') }}">
+		</div>
+		<div class="titulo">Vision</div>
+		<div class="content">
+			Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet feugiat lorem, sit amet tempus urna. Nulla at nulla felis. Aliquam eget iaculis neque. Donec laoreet elit nisl, sit amet lacinia diam accumsan id. Aenean tristique diam at dictum
+		</div>
+	</div>
+</div>
 @stop

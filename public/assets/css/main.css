@@ -6,12 +6,16 @@ html {
 
 body{
 	font-family: 'Ubuntu', sans-serif;
-	height: 100%;
 	margin: 0;
 }
 
 a {
 	text-decoration: none;
+}
+
+h1 {
+	margin-bottom: 35px;
+	color: rgb(39, 83, 124);
 }
 
 .home {
@@ -71,4 +75,38 @@ a {
     min-height: 100%;
     top: 0;
     z-index: 1;
+}
+
+.about_us {
+	width: 100%;
+	/*background-color: rgb(233, 233, 233); */
+	text-align: center;
+}
+
+.us {
+	width: 90%;
+	display: inline-block;
+	margin: 25px;
+}
+
+.section_about{
+	display: inline-block;
+	width: 30%;
+	color: rgb(39, 83, 124);
+}
+
+.section_about .icon {
+	opacity: 0.7; 
+}
+
+.section_about .titulo {
+	margin-top: 20px;
+	font-weight: bold;
+	font-size: 15px;
+}
+
+.section_about .content {
+	text-align: justify;
+	padding: 15px;
+	font-size: 14px;
 }
