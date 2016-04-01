@@ -89,22 +89,22 @@ ul {
 }
 
 .menu {
-	width: 100%;
 	background: rgb(0, 11, 42);
 	color: #fff;
-	text-align: right;
 	position: fixed;
-    top: 0;
+	text-align: right;
+	width: 100%;
     left: 0;
+    top: 0;
     z-index: 3;
 }
 
 .logo_menu {
 	display: inline-block;
-	width: 42%;
 	margin: 15px;
-	vertical-align: bottom;
 	text-align: left;
+	vertical-align: bottom;
+	width: 42%;
 }
 
 .botones {
@@ -239,7 +239,7 @@ ul {
 }
 
 .our_services:hover .filter_services{
-	background: rgba(0, 0, 0, 0.6);
+	background: rgba(0, 0, 0, 0.5);
 }
 
 .our_services:hover .service{
