@@ -91,7 +91,7 @@ ul {
 .menu {
 	background: rgb(0, 11, 42);
 	color: #fff;
-	position: fixed;
+	position: absolute;
 	text-align: right;
 	width: 100%;
     left: 0;
