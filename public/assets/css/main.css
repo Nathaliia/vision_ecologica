@@ -96,7 +96,7 @@ ul {
   position: absolute;
   width: 100%;
   text-align: center;
-  z-index: 9999; /* Aquí asegurate de tener un número mayor al del vídeo, pero menor a la capa que lo oscurece */
+  z-index: 0; /* Aquí asegurate de tener un número mayor al del vídeo, pero menor a la capa que lo oscurece */
 }
 
 .menu {
