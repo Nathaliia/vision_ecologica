@@ -1,10 +1,13 @@
 <html>
 <head>
-	<title>Vision Ecologica y Ambiental</title>
+	<title>Vactor Vision Ecologica y Ambiental</title>
 	<link rel="stylesheet" type="text/css" href="{{ asset('assets/css/bigvideo.css') }}">
 	<link rel="stylesheet" type="text/css" href="{{ asset('assets/css/main.css') }}">
 
 	<script src="{{ asset('assets/js/jquery-1.12.2.min.js') }}"></script>
+
+	<meta name="Description" content="Servicios de vactor">
+	<meta name="keywords" content="vactor,camara,ambiente,trampas,acueducto">
 </head>
 <body>
 
@@ -61,6 +64,14 @@
 		        { type: "video/ogg",  src: "assets/videos/video_1.ogv" }
 		    ],{ambient:true});
 		    BV.getPlayer().currentTime(22.5);
+
+		    BV.getPlayer().on('loadeddata', function() {
+				onVideoLoaded();
+			});
+			
+			function onVideoLoaded() {
+			  $('html').find('.loader').fadeOut('fast');
+			}
 
 		});
 

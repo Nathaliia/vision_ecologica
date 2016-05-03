@@ -15,6 +15,9 @@
 	</div>
 
 	<div class="filter"></div>
+	<div class="loader">
+	  <img src="{{ asset('assets/images/squares.gif') }}">
+	</div>
 @stop
 
 @section('menu')

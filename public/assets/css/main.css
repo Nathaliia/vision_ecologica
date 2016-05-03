@@ -88,6 +88,17 @@ ul {
     z-index: 1;
 }
 
+.loader {
+  background-color: white;
+  top: 0;
+  left: 0;
+  height: 100%;
+  position: absolute;
+  width: 100%;
+  text-align: center;
+  z-index: 9999; /* Aquí asegurate de tener un número mayor al del vídeo, pero menor a la capa que lo oscurece */
+}
+
 .menu {
 	background: rgb(0, 11, 42);
 	color: #fff;
