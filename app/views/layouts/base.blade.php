@@ -8,6 +8,7 @@
 
 	<meta name="Description" content="Servicios de vactor">
 	<meta name="keywords" content="vactor,camara,ambiente,trampas,acueducto">
+	<meta name="google-site-verification" content="3waoCZl5rAUHDN271VFJrlyf6ecebXG5dEDzXKpyLjQ" />
 </head>
 <body>
 
