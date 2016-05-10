@@ -19,7 +19,7 @@ class ContactController extends BaseController {
 		$contact->email 	= $email;
 		$contact->save();
 
-		//$this->sendEmail( $nombre,$telefono,$email );
+		$this->sendEmail( $nombre,$telefono,$email );
 
 		return Redirect::to('/');
 	}
@@ -28,7 +28,7 @@ class ContactController extends BaseController {
 
 		Mail::send('emails.contact', array('nombre'=>$nombre,'telefono'=>$telefono,'email'=>$email), function($message){
 				    $message->subject('Contacto desde pagina web');
-					$message->to('nathaliiacam@gmail.com');  
+					$message->to('visionecologicayambiental@gmail.com');  
 				});
 
 	}

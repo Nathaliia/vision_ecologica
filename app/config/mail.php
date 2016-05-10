@@ -54,7 +54,7 @@ return array(
 	|
 	*/
 
-	'from' => array('address' => 'nathaliiacam@gmail.com', 'name' => 'Nathalia'),
+	'from' => array('address' => 'info@visionecologicayambiental.com', 'name' => 'Contacto'),
 
 	/*
 	|--------------------------------------------------------------------------
@@ -80,7 +80,7 @@ return array(
 	|
 	*/
 
-	'username' => "nathaliiacam@gmail.com",
+	'username' => "info@visionecologicayambiental.com",
 
 	/*
 	|--------------------------------------------------------------------------
@@ -93,7 +93,7 @@ return array(
 	|
 	*/
 
-	'password' => "ncamacho17",
+	'password' => "visionecologica2",
 
 	/*
 	|--------------------------------------------------------------------------

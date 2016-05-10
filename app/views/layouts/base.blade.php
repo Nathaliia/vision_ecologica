@@ -42,11 +42,11 @@
 	</section>
 </div>
 	<footer>
-		<a><div class="enlace">Blog</div></a>
+		<a href="http://blog.visionecologicayambiental.com" target="blank"><div class="enlace">Blog</div></a>
 		<div class="texto">Copyright 2016-2017</div>
 		<div class="icons">
-			<a href=""><img width="25px" src="{{ asset('assets/images/footer/facebook.png') }}"></a>
-			<a href=""><img width="25px" src="{{ asset('assets/images/footer/twitter.png') }}"></a>
+			<a href="https://www.facebook.com/Vision-Ecologica-Y-Ambiental-JAC-534519516575615/"target="blank"><img width="25px" src="{{ asset('assets/images/footer/facebook.png') }}"></a>
+			<!--<a href=""><img width="25px" src="{{ asset('assets/images/footer/twitter.png') }}"></a>-->
 		</div>
 	</footer>
 
