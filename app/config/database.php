@@ -54,7 +54,7 @@ return array(
 
 		'mysql' => array(
 			'driver'    => 'mysql',
-			'host'      => 'localhost',
+			'host'      => 'us-cdbr-iron-east-04.cleardb.net',
 			'database'  => 'heroku_352f98d80bbf4ae',
 			'username'  => 'b65f85262efca5',
 			'password'  => '5fe3a99c',
