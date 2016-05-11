@@ -55,9 +55,9 @@ return array(
 		'mysql' => array(
 			'driver'    => 'mysql',
 			'host'      => 'localhost',
-			'database'  => 'vision_ecologica',
-			'username'  => 'root',
-			'password'  => '',
+			'database'  => 'heroku_352f98d80bbf4ae',
+			'username'  => 'b65f85262efca5',
+			'password'  => '5fe3a99c',
 			'charset'   => 'utf8',
 			'collation' => 'utf8_unicode_ci',
 			'prefix'    => '',
