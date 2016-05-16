@@ -87,8 +87,7 @@
 			<span class="title">SERVICIO DE VACTOR</span>
 		</div>
 		<div class="content">
-			Mantenimiento y destaponamiento de redes de alcantarillado (pluvial, sanitario o industrial) para tuberias de 2° de diametro en adelante.
-			Limpieza de pozos de inspeccion y sumideros.
+			Camion tipo vactor diseñado para la limpieza, lavado y matenimiento de redes de alcantarillado , sanitarias , pluviales , sumideros, trampas de grasa , pozos septicos. equipado con un sistema de lavado  y succion de alta presion que nos dara un optimo  rendimiento y eficacia  en las labores sugeridas por nuestros clientes.
 		</div>
 	</div>
 	<div class="filter_services"></div>
@@ -100,7 +99,7 @@
 			<span class="title">VIDEO INSPECCION CON SISTEMA CCTV</span>
 		</div>
 		<div class="content">
-			Diagnostico e inspeccion de redes con equipo de TV con informe en video, que le permite determinar los problemas internos de la red de alcantarillado. Se entrega el correspondiente informe escrito y visual de la tiberia inspeccionada y las respectivas recomendaciones.
+			Equipo diseñado para la inspeccion de tuberias de aguas residuales y pluviales con un diametro mayor a 4 pulgadas y una alta resolucion que nos permitira diagnosticar los problemas existentes en las redes de alcantarillado.
 		</div>
 	</div>
 	<div class="filter_services"></div>
@@ -112,7 +111,7 @@
 			<span class="title">HIDROJET</span>
 		</div>
 		<div class="content">
-			Limpieza de evacuacion de residuos (lodos), provenientes de trampas de grasas, pozos septicos, tanques de plantas de tratamiento de aguas residuales y cualquier otro sistema utilizado en la depuracion de efluentes residuales.
+			Hidrodestapadoras a gasolina y electricas: equipos con motor a gasolina adaptados con una bomba de agua presión y una manguera para sondeo, hasta 120 metros  para el destaponamiento , limpieza y lavado de tubería hasta 1 a 6 pulgadas. boquillas de diferente estructura y pistola para el lavado de cajas de paso, cárcamos, sumideros, pozos y aseo general a los sitios de trabajo.
 		</div>
 	</div>
 	<div class="filter_services"></div>
@@ -121,10 +120,10 @@
 	<div class="service">
 		<div class="header">
 			<img class="icon" width="30px" src="{{ asset('assets/images/services/icons/camion_agua.png') }}">
-			<span class="title">MINI VACTOR</span>
+			<span class="title">CAMION DE VACIO</span>
 		</div>
 		<div class="content">
-			Recoleccion, transporte, tratamiento y dispocicion de residuos industriales liquidos no peligrosos (lodos), con certificacion final de dispocision en la planta de tratamiento.
+			Equipo diseñado para la succion de pozos septicos,trampas de grasa ,pozos eyectores y aguas residuales .
 		</div>
 	</div>
 	<div class="filter_services"></div>
@@ -167,7 +166,7 @@
 			<img width="45px" src="{{ asset('assets/images/contact/phone.png') }}">
 		</div>
 		<div class="text_contact">
-			<span><b>320-327-3784</b></span><br>
+			<span><b>3105667351 - 3213435885 - 3204567589</b></span><br>
 			<span>¡Llamanos!</span>
 		</div>
 	</div>
