@@ -111,7 +111,7 @@
 			<span class="title">HIDROJET</span>
 		</div>
 		<div class="content">
-			Hidrodestapadoras a gasolina y electricas: equipos con motor a gasolina adaptados con una bomba de agua presión y una manguera para sondeo, hasta 120 metros  para el destaponamiento , limpieza y lavado de tubería hasta 1 a 6 pulgadas. boquillas de diferente estructura y pistola para el lavado de cajas de paso, cárcamos, sumideros, pozos y aseo general a los sitios de trabajo.
+			Hidrodestapadoras a gasolina y electricas: equipos con motor a gasolina adaptados con una bomba de agua presión y una manguera para sondeo, hasta 120 metros  para el destaponamiento , limpieza y lavado de tubería hasta 1 a 6 pulgadas. boquillas de diferente diametro y pistola para el lavado de cajas de paso, cárcamos, sumideros, pozos y aseo general a los sitios de trabajo.
 		</div>
 	</div>
 	<div class="filter_services"></div>
@@ -166,7 +166,7 @@
 			<img width="45px" src="{{ asset('assets/images/contact/phone.png') }}">
 		</div>
 		<div class="text_contact">
-			<span><b>3105667351 - 3213435885 - 3204567589</b></span><br>
+			<span><b>3203273784 - 3213435885 - 3946578</b></span><br>
 			<span>¡Llamanos!</span>
 		</div>
 	</div>
