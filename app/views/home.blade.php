@@ -83,11 +83,11 @@
 	</div>
 	<div class="service">
 		<div class="header">
-			<img class="icon" width="30px" src="{{ asset('assets/images/services/icons/camion.png') }}">
-			<span class="title">SERVICIO DE VACTOR</span>
+			<img class="icon" width="30px" src="{{ asset('assets/images/services/icons/manguera.png') }}">
+			<span class="title">HIDROJET</span>
 		</div>
 		<div class="content">
-			Camion tipo vactor diseñado para la limpieza, lavado y matenimiento de redes de alcantarillado , sanitarias , pluviales , sumideros, trampas de grasa , pozos septicos. equipado con un sistema de lavado  y succion de alta presion que nos dara un optimo  rendimiento y eficacia  en las labores sugeridas por nuestros clientes.
+			Hidrodestapadoras a gasolina y electricas: equipos con motor a gasolina adaptados con una bomba de agua presión y una manguera para sondeo, hasta 120 metros  para el destaponamiento , limpieza y lavado de tubería hasta 1 a 6 pulgadas. boquillas de diferente diametro y pistola para el lavado de cajas de paso, cárcamos, sumideros, pozos y aseo general a los sitios de trabajo.
 		</div>
 	</div>
 	<div class="filter_services"></div>
@@ -107,11 +107,11 @@
 <div class="our_services service3">
 	<div class="service">
 		<div class="header">
-			<img class="icon" width="30px" src="{{ asset('assets/images/services/icons/manguera.png') }}">
-			<span class="title">HIDROJET</span>
+			<img class="icon" width="30px" src="{{ asset('assets/images/services/icons/camion.png') }}">
+			<span class="title">SERVICIO DE VACTOR</span>
 		</div>
 		<div class="content">
-			Hidrodestapadoras a gasolina y electricas: equipos con motor a gasolina adaptados con una bomba de agua presión y una manguera para sondeo, hasta 120 metros  para el destaponamiento , limpieza y lavado de tubería hasta 1 a 6 pulgadas. boquillas de diferente diametro y pistola para el lavado de cajas de paso, cárcamos, sumideros, pozos y aseo general a los sitios de trabajo.
+			Camion tipo vactor diseñado para la limpieza, lavado y matenimiento de redes de alcantarillado , sanitarias , pluviales , sumideros, trampas de grasa , pozos septicos. equipado con un sistema de lavado  y succion de alta presion que nos dara un optimo  rendimiento y eficacia  en las labores sugeridas por nuestros clientes.
 		</div>
 	</div>
 	<div class="filter_services"></div>

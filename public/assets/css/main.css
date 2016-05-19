@@ -190,9 +190,12 @@ ul {
 
 .service2 {
 	background-image: url('../images/services/service_2.jpg');
+	background-position: center -127px;
 }
 .service3 {
 	background-image: url('../images/services/service_3.jpg');
+	background-position: center -450px;
+    height: 375px;
 }
 .service4 {
 	background-image: url('../images/services/service_4.jpg');
